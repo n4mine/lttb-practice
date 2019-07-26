@@ -1,10 +1,9 @@
 package main
 
 import (
-	"./testdata"
-
 	"github.com/devtoolkits/downsample"
 	"github.com/dgryski/go-lttb"
+	"github.com/n4mine/lttb-practice/testdata"
 	"gonum.org/v1/plot"
 	"gonum.org/v1/plot/plotter"
 	"gonum.org/v1/plot/plotutil"
